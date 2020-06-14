@@ -12,10 +12,10 @@ This is a *very dirty temporary hack*, but it **works**.
 **After each reboot of the container with hassio, this fix will start automatically.**
 ## Install:
 1. Add this url to your Hass.io addons repos: \
-`https://github.com/OPHoperHPO/hassio-addons`
+`https://github.com/1000mmr/hassio-addons`
 2. Update addons list.
 3. Install this addon.
 ## Urls:
-[Addon link](https://github.com/OPHoperHPO/hassio-addons/tree/master/pulseaudio_fix)
+[Addon link](https://github.com/1000mmr/hassio-addons/tree/master/pulseaudio_fix)
 ## Credits:
-Developed by [Anodev](https://github.com/OPHoperHPO)
+Developed by [Anodev](https://github.com/1000mmr)
