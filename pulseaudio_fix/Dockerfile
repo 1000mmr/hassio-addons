@@ -4,7 +4,7 @@ ENV LANG C.UTF-8
 # Set shell
 SHELL []
 # Setup base
-ARG BUILD_ARCH=armv7
+ARG BUILD_ARCH=armhf
 RUN \
     apk add --no-cache \
         alsa-plugins-pulse=1.2.1-r0 \
